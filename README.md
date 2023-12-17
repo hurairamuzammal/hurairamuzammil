@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hurairamuzammil.
+- 👋 Hi, I’m @hurairamuzammal.
 - 🎈 I am Undergraduate CS Student at FAST NUCES.
 - 👀 I’m interested in Programming and developing solution to problems.
 - 🌱 I’m currently learning React and JavaScript.
